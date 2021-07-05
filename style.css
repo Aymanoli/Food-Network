@@ -59,7 +59,9 @@ h1{
     box-shadow: 10px 10px 15px brown;
     margin:5% 7%;
     border-radius:10px
-
+}
+.middel-secrion{
+    padding-left:15px
 }
 .vegetables img{
     width:230px;
@@ -69,7 +71,7 @@ h1{
     border-radius:10px;
 }
 .vegetables h2, p{
-    padding-left:15px;
+    padding-left:15p;
 }
 .last-section{
     height:20%;
