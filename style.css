@@ -1,0 +1,87 @@
+body{
+    margin:0px
+}
+.heading{
+    display:flex;
+    margin-bottom:150px;
+}
+.food{
+    width:50%;
+}
+h1{
+    text-transform: capitalize;
+}
+.eat{
+    padding-left: 70px;
+    padding-right: 40px;
+    padding-top:110px;
+}
+.mark{
+    color:orange;
+}
+.link{
+    text-decoration: none;
+    padding:10px 20px;
+    border-radius:20px;
+    background-image: linear-gradient(orange, red);
+}
+.drink img{
+    width:300px;
+    display:block;
+    margin:16% auto;
+    background-image: url(images/Group\ 8448.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:280px 280px;
+}
+.middel h1{
+    text-align:center;
+    padding:0 100px
+}
+.middel-content{
+    text-align: center;
+    padding:0 300px;
+}
+.network{
+    width:50%;
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.jealthy{
+    padding-left:120px;
+    padding-right:30px;
+    text-align: justify;
+    padding-top:130px;
+}
+.vegetables{
+    width:58%;
+    box-shadow: 10px 10px 15px brown;
+    margin:5% 7%;
+    border-radius:10px
+
+}
+.vegetables img{
+    width:230px;
+    margin:15px auto;
+    display:block;
+    text-align: center;
+    border-radius:10px;
+}
+.vegetables h2, p{
+    padding-left:15px;
+}
+.last-section{
+    height:20%;
+    text-align: center;
+    background-color: #111;
+}
+.last{
+    color:orange
+}
+.last-time{
+    color:#ddd;
+}
+.last-part{
+    color:gray;
+}
