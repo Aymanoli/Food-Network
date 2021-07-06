@@ -35,6 +35,18 @@ h1{
     background-position: center;
     background-size:280px 280px;
 }
+.background{
+    display:flex;
+    margin-bottom:150px;
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.about{
+    padding-left:50px;
+    padding-top:80px;
+    padding-right:30px;
+}
 .middel-first{
     text-align:center;
     padding:0 100px
@@ -42,18 +54,6 @@ h1{
 .middel-content{
     text-align: center;
     padding:0 300px;
-}
-.healthy{
-    width:50%;
-    background-image: url(images/Frame\ 59.jpg);
-    background-repeat: no-repeat;
-    background-position:center;
-}
-.jealthy{
-    padding-left:120px;
-    padding-right:30px;
-    text-align: justify;
-    padding-top:130px;
 }
 .vegetables{
     width:58%;
